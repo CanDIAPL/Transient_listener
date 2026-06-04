@@ -4,7 +4,7 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "translist" 
+name = "gala" 
 version = "0.1.0"
 
 authors = [
