@@ -1,4 +1,4 @@
-# Transient listener #
+# GALA - Generalized Alert Listener and Analyzer #
 
 Codebase to listen to real time data streams (GCNs, TNS etc.) and store them in database, most probably MongoDB.
 
